@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.source_files = "Source/VNetworking/*.{h,m}"
   s.resources    = "Source/VNetworking/*.{plist,txt}"
   s.requires_arc = true
-  s.dependency 'AFNetworking', '2.5.4'
+  s.dependency 'AFNetworking', '2.6.3'
 end
