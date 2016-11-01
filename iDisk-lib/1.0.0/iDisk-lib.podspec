@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "iDisk-Lib"
+  s.name         = "iDisk-lib"
   s.version      = "1.0.0"
   s.summary      = "Flash disk share module"
   s.homepage     = "http://www.heyuan110.com"
